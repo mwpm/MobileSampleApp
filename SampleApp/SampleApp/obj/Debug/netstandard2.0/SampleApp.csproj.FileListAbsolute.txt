@@ -1,0 +1,17 @@
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\bin\Debug\netstandard2.0\SampleApp.deps.json
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\bin\Debug\netstandard2.0\SampleApp.dll
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\bin\Debug\netstandard2.0\SampleApp.pdb
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.dll
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp\obj\Debug\netstandard2.0\SampleApp.pdb

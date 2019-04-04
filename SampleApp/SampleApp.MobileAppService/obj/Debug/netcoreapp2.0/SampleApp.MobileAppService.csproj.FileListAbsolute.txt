@@ -1,0 +1,11 @@
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\bin\Debug\netcoreapp2.0\SampleApp.MobileAppService.deps.json
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\bin\Debug\netcoreapp2.0\SampleApp.MobileAppService.runtimeconfig.json
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\bin\Debug\netcoreapp2.0\SampleApp.MobileAppService.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\bin\Debug\netcoreapp2.0\SampleApp.MobileAppService.dll
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\bin\Debug\netcoreapp2.0\SampleApp.MobileAppService.pdb
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\obj\Debug\netcoreapp2.0\SampleApp.MobileAppService.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\obj\Debug\netcoreapp2.0\SampleApp.MobileAppService.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\obj\Debug\netcoreapp2.0\SampleApp.MobileAppService.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\obj\Debug\netcoreapp2.0\SampleApp.MobileAppService.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\obj\Debug\netcoreapp2.0\SampleApp.MobileAppService.dll
+C:\Users\micha\OneDrive\Documents\Visual Studio 2019\SampleApp\SampleApp.MobileAppService\obj\Debug\netcoreapp2.0\SampleApp.MobileAppService.pdb
